@@ -1,0 +1,5 @@
+<?
+
+echo "adalberto";
+
+?>
